@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+    
+    .box-mm{
+        margin-top: 30%;
+    }
+
+   .box-mm{
+    margin-top: 30%;
+   }
+
+    .box-nn{
+        background-color: rgb(111, 173, 173);
+    }
+
+    .head-one{
+        margin-top: 10%;
+    }
+
+.h1{
+    font-size: 400%;
+}
+
+.pera{
+   margin-top: 10%;
+}
+.btn-one{
+    background-color: rgb(136, 180, 180);
+    border-radius: 25px;
+}
+
+.btn-one:hover:{
+    background-color: rgb(216, 213, 213);
+    color: rgb(125, 190, 190);
+}
+
+/* mobile*/
+@media  (max-width: 480px) {
+    font-size: 225px;
+}
+
+
+
+
+
